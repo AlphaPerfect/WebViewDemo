@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					FCE40CF41DB6106500210D33 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 624877M2V4;
+						DevelopmentTeam = 6789664Q82;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -259,10 +259,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 624877M2V4;
+				DEVELOPMENT_TEAM = 6789664Q82;
 				INFOPLIST_FILE = WebViewDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yuanyuan.WebViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.damon.WebViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -272,10 +272,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 624877M2V4;
+				DEVELOPMENT_TEAM = 6789664Q82;
 				INFOPLIST_FILE = WebViewDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yuanyuan.WebViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.damon.WebViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -300,6 +300,7 @@
 				FCE40D091DB6106500210D33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
